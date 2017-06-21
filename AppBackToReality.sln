@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppBackToReality", "AppBackToReality\AppBackToReality.csproj", "{0897615C-58FB-470B-BCCE-ADEB894971F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppBackToReality.Tests", "AppBackToReality.Tests\AppBackToReality.Tests.csproj", "{8DB7D161-8D01-416C-951F-6AD8CF5E0D16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0897615C-58FB-470B-BCCE-ADEB894971F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0897615C-58FB-470B-BCCE-ADEB894971F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0897615C-58FB-470B-BCCE-ADEB894971F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0897615C-58FB-470B-BCCE-ADEB894971F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB7D161-8D01-416C-951F-6AD8CF5E0D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB7D161-8D01-416C-951F-6AD8CF5E0D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB7D161-8D01-416C-951F-6AD8CF5E0D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB7D161-8D01-416C-951F-6AD8CF5E0D16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

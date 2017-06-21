@@ -1,0 +1,5 @@
+﻿https://www.w3schools.com/bootstrap/bootstrap_carousel.asp
+
+Getting Started with ASP.NET 4.5 Web Forms and Visual Studio 2013.pdf -> The workshop doc
+
+https://stackoverflow.com/questions/332273/entity-framework-guid
